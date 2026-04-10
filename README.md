@@ -1,5 +1,5 @@
 # Web-Project
 Project idea and discreption:
-'''
+```
 The project is an e-commerce website for hair care products designed as a complete and integrated platform that brings together all hair care needs in one place. The main idea is to solve the problem of customers having to browse multiple websites to find different products, which can be confusing and time-consuming. Instead, this website provides a centralized and organized shopping experience where users can easily find everything they need without getting distracted or switching between different stores. It allows users to create an account or log in, then browse a structured home page with clear categories. When a category is selected, users are directed to a products page, followed by a product details page that includes an image, description, price, and an “Add to Cart” option. After that, users proceed to checkout to enter shipping information and choose a payment method, and finally receive a confirmation page once the purchase is completed. Overall, the website aims to provide a smooth, convenient, and unified shopping experience from start to finish.
-'''
+```
